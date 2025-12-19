@@ -1,3 +1,11 @@
 venv/
 .venv/
 video/
+/input_images
+/moved
+/train
+/val
+*.jpg
+*.JPG
+*.PNG
+*.txt
